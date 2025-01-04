@@ -4,5 +4,3 @@ numpy
 seaborn
 streamlit
 joblib
-
-st.write("Hi!")
